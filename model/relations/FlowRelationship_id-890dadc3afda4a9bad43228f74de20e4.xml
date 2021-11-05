@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Entradas Contables"
+    id="id-890dadc3afda4a9bad43228f74de20e4">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0d4c9f7ce25742f197f56988ea2f465c.xml#id-0d4c9f7ce25742f197f56988ea2f465c"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f648a3d1c28a42d893f7e0ac43c5da65.xml#id-f648a3d1c28a42d893f7e0ac43c5da65"/>
+</archimate:FlowRelationship>
